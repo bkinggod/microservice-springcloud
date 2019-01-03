@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/microservicecloud/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-7101/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-provider-user-8001/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-api/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-consumer-user-80/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-7102/pom.xml" />
+        <option value="$PROJECT_DIR$/microservicecloud-eureka-7103/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\bicheng\AppData\Roaming\Subversion</configuration>
+  </component>
+</project>
