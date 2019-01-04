@@ -8,5 +8,11 @@
 # microservicecloud-consumer-user-80
 这个模块是微服务的消费者
 # microservicecloud-eureka-7101
+这个是微服务的注册中心7101
+# microservicecloud-eureka-7102
+这个是微服务的注册中心7102
+# microservicecloud-eureka-7103
+这个是微服务的注册中心7103
+这里三个注册中心是集群注册中心，可以将服务都注册到这三个服务中
 # microservicecloud-pprovider-user-8001
 这个是为微服务的服务提供者
